@@ -29,3 +29,11 @@ aside {
    justify-content: flex-end;
    margin-left: auto;
 }
+/* Example CSS Rule */
+.works_on_smartphone {
+  /* This style will only be applied to the <body> element */
+  /* because the class is directly on it. */
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
