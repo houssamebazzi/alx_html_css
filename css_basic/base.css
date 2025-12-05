@@ -48,7 +48,7 @@ table {
 /* Fonts and colors */
 
 body {
-	font-family: 'Josefin Sans', serif;
+	font-family: 'Josefin Sans', sans-serif;
 	color: rgba(0, 0, 0, 0.8);
 }
 h1, h2, h3, h4, h5, h6, header {
